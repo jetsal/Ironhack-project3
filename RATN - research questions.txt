@@ -1,0 +1,52 @@
+# Race Around the Netherlands - research questions
+
+## Introduction
+Every year a bunch of cycling-fanatics set of to Race Around the Netherlands. This is a 1.913km long race with 4.164m elevation starting and ending in Amerongen (Utrecht). The route is predetermined, the rest is up to the riders. They have 9 days to finish the ride.
+The race is not as much a race against competitors, as it is a race against the elements and well, quite frankly, a very painful backside.
+Detailed race-data is available for the 2018-2021 editions, which will be the topic of this project.
+
+## Research questions
+#### THE WEATHER
+The race is held in spring, and Dutch springs can be very capracious. Headwind, rain and low temperatures can slow you down and lower morale. We try to find out:
+1). how the weather affects the time it takes riders to reach the finish line
+2). if the weather affects if riders give up more often and/or more quickly (earlier in the route). 
+
+#### MEN VERSUS WOMEN
+3). Both men and women ride the same route. Women usually ride slower, which means: more days in the saddle. How many more days do women need on average?
+4). Men may be faster than women, but who are tougher? What is the average DNF rate of men versus women, and at which point do they give up? 
+
+#### THE BEST OF BOTH WORLDS?
+5). There are two categories: solo cyclists and duo’s. You’d think that duo’s would be back quicker: you an keep up each others morale, and draft (which is forbidden for the solo riders). But does it work this way? Let’s look at the couples: do mixed sex couples on average finish before female solo riders? And how about the male-couples?
+
+
+## Data available
+#### PARTICIPANT INFORMATION
+- First & last name;
+- Gender;
+- Solo- or pair-rider;
+- Checkpoint-timings; 
+
+
+#### WEATHER STATS 
+stats of different weather stations around the Netherlands: 
+- Windspeed;
+- Avg daily temperatures;
+- Daily rainfall in mm; 
+- Hours of rain per day;
+
+
+#### LOCATION OF WEATHER STATIONS ALONG THE ROUTE
+The weather station for each stretch is chosen so the station is more or less half way between the start and end of the stretch;
+
+####Startpoint	####Endpoint	####Trackpoint 	####Weather station for this stretch
+
+Amerongen	Arnhem			1	De Bilt (bij gebrek aan beter)
+Arnhem		Bourtange		2	Twenthe
+Bourtange	Groningen		3	Eelde
+Groningen	Harlingen		4	Lauwersoog
+Harlingen 	Amsterdam		5	Lelystad (Stavoren net iets verder uit het midden)
+Amsterdam	Oostduinse meer		6	De Kooy (~Den Helder)
+Oostduinse meer	Rotterdam		7	Hoek van Holland
+Rotterdam	Goirle			8	Vlissingen 
+Goirle		Vijlenerbos		9	Ell
+Vijlenerbos	Amerongen		10 	Arcen
