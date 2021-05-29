@@ -8,7 +8,7 @@ Detailed race-data is available for the 2018-2021 editions, which will be the to
 ## Research questions
 #### THE WEATHER
 The race is held in spring, and Dutch springs can be very capracious. Headwind, rain and low temperatures can slow you down and lower morale. We try to find out:
-1). how the weather affects the time it takes riders to reach the finish line
+1). if the weather affects the time it takes riders to reach the finish line
 2). if the weather affects if riders give up more often and/or more quickly (earlier in the route). 
 
 #### MEN VERSUS WOMEN
@@ -38,7 +38,7 @@ stats of different weather stations around the Netherlands:
 #### LOCATION OF WEATHER STATIONS ALONG THE ROUTE
 The weather station for each stretch is chosen so the station is more or less half way between the start and end of the stretch;
 
-####Startpoint	####Endpoint	####Trackpoint 	####Weather station for this stretch
+####Startpoint	####Endpoint	####STRETCH	####Weather station for this stretch
 
 Amerongen	Arnhem			1	De Bilt (bij gebrek aan beter)
 Arnhem		Bourtange		2	Twenthe
